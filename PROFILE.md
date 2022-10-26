@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellateixeira
 - 👀 I’m interested in Software Engineering!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: imt@bu.edu
 
