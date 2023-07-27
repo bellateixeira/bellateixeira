@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T15:57:06.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="StUimXOMXbxLuGtb-W21" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T16:03:05.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="LcMVhaEd1RnGYPThevP0" version="21.6.5" type="github">
   <diagram name="Page-1" id="KLkAqITSsvlnIgA2RV4J">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -273,6 +273,9 @@
         </mxCell>
         <mxCell id="joJ1jxcp3FLAG_NwimTS-33" value="Data Syndication" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joJ1jxcp3FLAG_NwimTS-38" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://tse2.mm.bing.net/th/id/OIP.GW9D9kLyH9Wl-kzZYCd9bQHaH5?pid=ImgDet&amp;rs=1;clipPath=inset(0.33% 0.35% 0% 0% round 26%);" vertex="1" parent="1">
+          <mxGeometry x="85.96" y="114.42" width="48.07" height="51.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
